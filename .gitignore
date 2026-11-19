@@ -27,3 +27,16 @@ Thumbs.db
 
 # Logs
 *.log
+# Added by Auto-Setup
+node_modules/
+.env
+.env.*
+*.env
+dist/
+build/
+
+
+.torch/
+*.pth
+*.pt
+
